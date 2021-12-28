@@ -8,7 +8,8 @@ public class SpringbootDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootDemoApplication.class, args);
-        System.out.println("asdaddasd");
+        System.out.println("测试提交github");
+
     }
 
 }
